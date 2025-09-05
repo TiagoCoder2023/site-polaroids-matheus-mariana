@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/site-polaroids-matheus-mariana/static/css/main.3dbd0733.css",
-    "main.js": "/site-polaroids-matheus-mariana/static/js/main.ab8a33d3.js",
-    "index.html": "/site-polaroids-matheus-mariana/index.html",
-    "main.3dbd0733.css.map": "/site-polaroids-matheus-mariana/static/css/main.3dbd0733.css.map",
-    "main.ab8a33d3.js.map": "/site-polaroids-matheus-mariana/static/js/main.ab8a33d3.js.map"
+    "main.css": "./static/css/main.3dbd0733.css",
+    "main.js": "./static/js/main.0933d748.js",
+    "index.html": "./index.html",
+    "main.3dbd0733.css.map": "./static/css/main.3dbd0733.css.map",
+    "main.0933d748.js.map": "./static/js/main.0933d748.js.map"
   },
   "entrypoints": [
     "static/css/main.3dbd0733.css",
-    "static/js/main.ab8a33d3.js"
+    "static/js/main.0933d748.js"
   ]
 }
